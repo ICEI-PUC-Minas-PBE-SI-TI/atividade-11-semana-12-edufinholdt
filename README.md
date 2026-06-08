@@ -4,12 +4,12 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Eduardo Finholdt Santos Silva
+- Matrícula: 925128
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
-
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
-
+<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES -
+<img src="image.png">
+<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA -
+<img src="inicio.png">
